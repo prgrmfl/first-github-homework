@@ -10,7 +10,7 @@
 
 |  | student emoji | student comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| your name | your emoji | your comments | | |
+| Harun | ✅ | Complete | | |
 
 ___
 ___
